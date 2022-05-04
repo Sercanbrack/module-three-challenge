@@ -6,7 +6,7 @@ This is the challenge assignment for Module Three. I have written the logic behi
 
 ### Requirements
 
-You don't need anything else outside of the GitHub Repository to make this site work besides an up-to-date version of your preferred browser.
+You don't need anything else outside of the GitHub Repository besides an up-to-date version of your preferred browser.
 
 ### Installation
 
@@ -20,12 +20,12 @@ Everything should come preconfigured and work as intended. All you need is an up
 ### Image Links
 
 Below is the link to a screenshot of the completed project.
-
+https://github.com/Sercanbrack/module-three-challenge/blob/main/images/password%20generator%20screenshot.jpeg?raw=true
 
 ### Project Link
 
 Below is the link to the project's live URL on GitHub Pages.
-
+https://sercanbrack.github.io/module-three-challenge/
 
 ### Author
 
